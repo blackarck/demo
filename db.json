@@ -2,25 +2,22 @@
   "students": [
     { "id": 1, "name": "Einstein" },
     { "id": 2, "name": "Newton" },
-    { "id": 3, "name": "Pythagoras" },
+    { "id": 3, "name": "Pythagoras" }
   ],
-   
   "Einstein":[
        {"subject": "maths", "number":71},
        {"subject": "science", "number":91},
-       {"subject": "english", "number":61},
-      
+       {"subject": "english", "number":61}
   ],
    "Newton":[
        {"subject": "maths", "number":52},
        {"subject": "science", "number":92},
-       {"subject": "english", "number":72},
-      
+       {"subject": "english", "number":72}
   ],
    "Pythagoras":[
        {"subject": "maths", "number":73},
        {"subject": "science", "number":83},
-       {"subject": "english", "number":63},
+       {"subject": "english", "number":63}
   ],
  "profile": {
     "name": "typicode"
