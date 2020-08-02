@@ -5,6 +5,30 @@
     { "id": 3, "name": "Pythagoras" },
     { "id": 4, "name": "Edison" }
   ],
+  "Einstein":[
+       {"subject": "maths", "number":71},
+       {"subject": "science", "number":91},
+       {"subject": "english", "number":61},
+       {"subject": "history", "number":51}
+  ],
+   "Newton":[
+       {"subject": "maths", "number":52},
+       {"subject": "science", "number":92},
+       {"subject": "english", "number":72},
+       {"subject": "history", "number":52}
+  ],
+   "Pythagoras":[
+       {"subject": "maths", "number":73},
+       {"subject": "science", "number":83},
+       {"subject": "english", "number":63},
+       {"subject": "history", "number":53}
+  ],
+   "Edison":[
+       {"subject": "maths", "number":84},
+       {"subject": "science", "number":74},
+       {"subject": "english", "number":84},
+       {"subject": "history", "number":74}
+  ],
  "profile": {
     "name": "typicode"
   }
