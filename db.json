@@ -5,6 +5,7 @@
     { "id": 3, "name": "Pythagoras" },
     { "id": 4, "name": "Edison" }
   ],
+  "marks":{
   "Einstein":[
        {"subject": "maths", "number":71},
        {"subject": "science", "number":91},
@@ -29,6 +30,7 @@
        {"subject": "english", "number":84},
        {"subject": "history", "number":74}
   ],
+  },
  "profile": {
     "name": "typicode"
   }
