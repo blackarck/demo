@@ -5,5 +5,7 @@
     { "id": 3, "name": "Pythagoras" },
     { "id": 4, "name": "Edison" }
   ],
- 
+ "profile": {
+    "name": "typicode"
+  }
 }
