@@ -3,9 +3,9 @@
     { "id": 1, "name": "Einstein" },
     { "id": 2, "name": "Newton" },
     { "id": 3, "name": "Pythagoras" },
-    { "id": 4, "name": "Edison" }
+   
   ],
-  "marks":{
+   
   "Einstein":[
        {"subject": "maths", "number":71},
        {"subject": "science", "number":91},
@@ -24,13 +24,8 @@
        {"subject": "english", "number":63},
        {"subject": "history", "number":53}
   ],
-   "Edison":[
-       {"subject": "maths", "number":84},
-       {"subject": "science", "number":74},
-       {"subject": "english", "number":84},
-       {"subject": "history", "number":74}
-  ],
-  },
+   
+  
  "profile": {
     "name": "typicode"
   }
